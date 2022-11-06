@@ -18,7 +18,7 @@ Projeto de um site para informar o calendário da Copa do Mundo 2022.
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/capa.png" width="100%">
+  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Info Copa é um projeto que mostra os jogos, grupos e estádios da Copa de 2022.
+O Calendário da Copa é um projeto que mostra os jogos da Copa do Mundo 2022.
 
 ## 🔖 Layout
 
