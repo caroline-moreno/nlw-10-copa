@@ -18,7 +18,7 @@ Projeto de um site para informar o calendário da Copa do Mundo 2022.
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="calendario da copa" src="./github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias

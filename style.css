@@ -26,9 +26,9 @@ body.green {
 }
 
 body.red {
-  --card-title-border-color: #8A1538;
-  --card-color-primary: #8A1538;
-  --card-bg-color: #EBE9EA;
+  --card-title-border-color: #8a1538;
+  --card-color-primary: #8a1538;
+  --card-bg-color: #ebe9ea;
   --bg: url(./assets/bg-red.svg);
 }
 
@@ -63,7 +63,7 @@ header {
 
 .card {
   padding: 32px 23px;
-  text-align: center;
+  /* text-align: center; */
 
   background: var(--card-bg-color);
   border-bottom: 2px solid var(--card-color-primary);
@@ -84,11 +84,11 @@ header {
   margin-inline: auto;
   margin-bottom: 53px;
 
-  color: #8A1538;
+  color: #8a1538;
 }
 
 .card h2 span {
-  color: #8A1538;
+  color: #8a1538;
   font-size: 14px;
   text-transform: uppercase;
 }
@@ -109,7 +109,7 @@ header {
 
 .card ul li + li {
   padding-top: 24px;
-  border-top: 1px solid #ADA3A6;
+  border-top: 1px solid #ada3a6;
 }
 
 .card ul li strong {
@@ -117,7 +117,7 @@ header {
   font-size: 36px;
   line-height: 125%;
 
-  color: #8A1538;
+  color: #8a1538;
 }
 
 .card h2:hover,
